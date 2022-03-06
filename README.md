@@ -29,4 +29,8 @@
   <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> 
 </div><br/>
 
+## Linguagens mais utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLimaGimenez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br><br/>
+
 <p>Apaixonado por tecnologia, educação e por melhorar a vida dos outros através da programação, estou buscando vagas na área de desenvolvimento para dar ínico a esse sonho 😀</p>
